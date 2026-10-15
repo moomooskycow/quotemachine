@@ -1,0 +1,8 @@
+{
+  "repo": "moomooskycow/quotemachine",
+  "source_commit": "e162d8929707096676ed3c0f5b2e5d25db78558d",
+  "source_folder": ".",
+  "project_prefix": "quotemachine",
+  "before_url": "https://moomooskycow.github.io/quotemachine/",
+  "build_kind": "static"
+}
